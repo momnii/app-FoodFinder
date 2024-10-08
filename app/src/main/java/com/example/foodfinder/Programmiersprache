@@ -1,0 +1,11 @@
+Für die Entwicklung von FoodFinder habe ich Kotlin gewählt, eine moderne Programmiersprache, die speziell
+für die Android-Entwicklung konzipiert wurde. Kotlin bietet eine einfache und klare Syntax, die es Entwicklern ermöglicht,
+schnelleren und übersichtlicheren Code zu schreiben als in Java. Ein wesentlicher Vorteil von Kotlin ist die Interoperabilität
+mit Java. Dies bedeutet, dass ich problemlos bestehende Java-Bibliotheken und -Frameworks nutzen kann, was die Entwicklung
+erheblich erleichtert. Kotlin unterstützt auch funktionale Programmierung, wodurch sich Codezeilen kürzer und prägnanter gestalten
+lassen, was die Lesbarkeit und Wartbarkeit des Codes verbessert.Darüber hinaus fördert Kotlin die Verwendung sicherer Typen,
+die dabei helfen, häufige Programmierfehler wie Nullzeiger-Ausnahmen zu vermeiden. Diese Sicherheitsmerkmale tragen dazu bei,
+die Stabilität und Zuverlässigkeit der App zu erhöhen, was für das Nutzererlebnis von entscheidender Bedeutung ist.
+Zusätzlich bietet Kotlin eine Vielzahl an Funktionen, wie z.B. Erweiterungsfunktionen, die es ermöglichen, bestehenden
+Klassen neue Funktionen hinzuzufügen, ohne sie zu verändern. Diese Merkmale machen Kotlin zur idealen Wahl für die Entwicklung
+moderner Android-Apps wie FoodFinder, da sie sowohl die Produktivität als auch die Codequalität verbessern.

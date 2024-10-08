@@ -1,0 +1,9 @@
+Am Anfang sieht man eine Animation zum Titelbild der App.
+Danach musst du dich einloggen, indem du einen Benutzernamen, dein Alter und eine gültige E-Mail-Adresse eingibst.
+Mit einem Klick auf den Button wirst du zur Profilseite weitergeleitet, wo deine Daten und ein Profilbild angezeigt werden.
+Unten findest du ein Navigationsmenü, das den Wechsel zwischen der Profilseite, der Kartenansicht und der Filterseite erleichtert.
+In der Kartenansicht kannst du im Suchfeld den Namen einer Stadt eingeben (z.B. "Koeln" für Köln). Anschließend werden alle Restaurants
+in dieser Stadt mit Markern angezeigt. Auf der Filterseite kannst du zwischen veganen und vegetarischen Restaurants wählen.
+Der Status der CheckBoxen wird gespeichert, während du zwischen den Seiten wechselst. Mit "Filter zurücksetzen" werden alle Filter zurückgesetzt.
+Um die Route zu einem Restaurant zu finden, klicke einfach auf einen Marker. Du wirst gefragt, ob du zu Google Maps weitergeleitet werden möchtest.
+Wenn du bestätigst, öffnet sich Google Maps.
